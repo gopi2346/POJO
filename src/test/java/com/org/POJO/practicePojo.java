@@ -2,7 +2,7 @@ package com.org.POJO;
 
 public class practicePojo {
 		
-		// Hi Ganesh
+		// Hi World
 		private String accuracy;
 		private String name;
 		private String phone_number;
