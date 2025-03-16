@@ -1,7 +1,7 @@
 package com.org.POJO;
 
 public class practicePojo {
-		
+
 		private String accuracy;
 		private String name;
 		private String phone_number;
